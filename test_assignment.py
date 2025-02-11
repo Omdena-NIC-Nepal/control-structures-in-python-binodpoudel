@@ -2,7 +2,7 @@ import io
 import sys
 import pytest
 # import assignment  # Assumes the student's solution is in assignment.py
-import assignment
+
 
 import nbconvert
 import io
